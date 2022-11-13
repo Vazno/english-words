@@ -2,7 +2,7 @@
 
 `445803` english words from all around the world.</p>
 
-##### Get the letter frequency by running `get_frequency.py`:
+##### Get the letter frequency by running `find_frequency.py`:
 ###### This will create such json file:
 ```python
 {
