@@ -1,10 +1,3 @@
-<h1 align="center">English words</h1>
-
-`445803` english words from all around the world.</p>
-
-##### Get the letter frequency by running `get_frequency.py`:
-###### This will create such json file:
-```python
 {
     "e": 10.984012884727973,
     "i": 8.954280134924268,
@@ -33,7 +26,3 @@
     "q": 0.16456141330661478,
     "j": 0.1596629070433894
 }
-```
-
----
-[![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
